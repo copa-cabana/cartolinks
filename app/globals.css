@@ -186,6 +186,10 @@ color:#0e0909
   width:70px;
 }
 
+.dark .button-updated{
+  color: #0e0909;
+}
+
 .features_space_right{
   margin-right:30px;
 }
